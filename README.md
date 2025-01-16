@@ -1,0 +1,31 @@
+Data Analysis And Visualization On BCG Customer Data.
+Where Data coloumns are like:
+Data columns (total 26 columns):
+ #   Column                          Non-Null Count  Dtype  
+---  ------                          --------------  -----  
+ 0   id                              14606 non-null  object 
+ 1   channel_sales                   14606 non-null  object 
+ 2   cons_12m                        14606 non-null  int64  
+ 3   cons_gas_12m                    14606 non-null  int64  
+ 4   cons_last_month                 14606 non-null  int64  
+ 5   date_activ                      14606 non-null  object 
+ 6   date_end                        14606 non-null  object 
+ 7   date_modif_prod                 14606 non-null  object 
+ 8   date_renewal                    14606 non-null  object 
+ 9   forecast_cons_12m               14606 non-null  float64
+ 10  forecast_cons_year              14606 non-null  int64  
+ 11  forecast_discount_energy        14606 non-null  float64
+ 12  forecast_meter_rent_12m         14606 non-null  float64
+ 13  forecast_price_energy_off_peak  14606 non-null  float64
+ 14  forecast_price_energy_peak      14606 non-null  float64
+ 15  forecast_price_pow_off_peak     14606 non-null  float64
+ 16  has_gas                         14606 non-null  object 
+ 17  imp_cons                        14606 non-null  float64
+ 18  margin_gross_pow_ele            14606 non-null  float64
+ 19  margin_net_pow_ele              14606 non-null  float64
+ 20  nb_prod_act                     14606 non-null  int64  
+ 21  net_margin                      14606 non-null  float64
+ 22  num_years_antig                 14606 non-null  int64  
+ 23  origin_up                       14606 non-null  object 
+ 24  pow_max                         14606 non-null  float64
+ 25  churn                           14606 non-null  int64  
